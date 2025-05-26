@@ -1,1 +1,0 @@
-const String apiKey = "AIzaSyA_yQUb5_vQRiq3qZ5gnlFSmqz9NHvowpQ";
